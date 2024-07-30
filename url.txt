@@ -1,0 +1,5 @@
+url:
+=========
+view all users:http://localhost:8080/UserManagement/list
+
+add new user:http://localhost:8080/UserManagement/new
